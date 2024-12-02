@@ -21,3 +21,5 @@ Reset Button: Resets the stopwatch to 0:00.
 Time Display: Shows the elapsed time in minutes and seconds format.
 6. Project Implementation
 The stopwatch functionality is implemented using the time module in Python, which keeps track of elapsed time. The Tkinter library is used for creating the graphical interface with interactive buttons and a display for the time.
+
+<img src="image.png" />
